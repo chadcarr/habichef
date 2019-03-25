@@ -1,0 +1,6 @@
+[submodule "xmldump-hab"]
+	path = xmldump-hab
+	url = git@github.com:chadcarr/xmldump-hab
+[submodule "xml-writer-hab"]
+	path = xml-writer-hab
+	url = git@github.com:chadcarr/xml-writer-hab

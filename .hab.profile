@@ -1,0 +1,5 @@
+export HAB_AUTH_TOKEN="_Qk9YLTEKYmxkci0yMDE3MDkyNzAyMzcxNApibGRyLTIwMTcwOTI3MDIzNzE0CmpVZlhtbTcxeXRyeGJFODBremtlZ2J1aCtwL24xcForCkdyZG9QT2g0bzF1eWFYOFdOWGl5OE45eE4zdk96T2VSaSs3TmR5bnFOZjV6STd0dg=="
+export HAB_ORIGIN="chadcarr"
+
+hab origin key download $HAB_ORIGIN
+hab origin key download -s $HAB_ORIGIN
